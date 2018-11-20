@@ -1,4 +1,4 @@
-package iftm.pdm.com.hospitalrowcontrol;
+package rowcontrol.com.br.hospitalrowcontrol;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("iftm.pdm.com.hospitalrowcontrol", appContext.getPackageName());
+        assertEquals("rowcontrol.com.br.hospitalrowcontrol", appContext.getPackageName());
     }
 }

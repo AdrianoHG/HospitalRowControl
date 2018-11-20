@@ -1,4 +1,4 @@
-package iftm.pdm.com.hospitalrowcontrol;
+package rowcontrol.com.br.hospitalrowcontrol;
 
 import org.junit.Test;
 

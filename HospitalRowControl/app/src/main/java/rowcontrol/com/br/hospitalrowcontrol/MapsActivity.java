@@ -1,4 +1,4 @@
-package iftm.pdm.com.hospitalrowcontrol;
+package rowcontrol.com.br.hospitalrowcontrol;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
